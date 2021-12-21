@@ -1,0 +1,27 @@
+bit-size=
+min-prime-value=
+
+p=
+q=
+n=
+
+d=
+e=
+
+message-to-send = 
+encypted-message=
+
+signature-text = 
+signed-text=
+
+
+#----------------------------------------------------------------
+
+partner-public-key =
+partner-mod = 
+
+partner-message =
+partner-message-decrypted=
+
+partner-sign = 
+partner-sign-decrypted=
